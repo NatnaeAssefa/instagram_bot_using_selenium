@@ -1,0 +1,5 @@
+2025-05-18 14:17:07,120 - INFO - Starting session nattykiya27_20250518_141707 for nattykiya27
+2025-05-18 14:17:07,126 - ERROR - Proxy validation failed: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000224823C4BF0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host')))
+2025-05-18 14:17:07,127 - WARNING - Proxy validation failed, will use direct connection
+2025-05-18 14:17:07,184 - ERROR - Failed to create Chrome driver: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-05-18 14:17:07,185 - ERROR - Fatal error in main: <urlopen error [Errno 11001] getaddrinfo failed>

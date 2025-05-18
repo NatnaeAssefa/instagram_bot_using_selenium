@@ -1,0 +1,30 @@
+2025-05-18 14:18:47,843 - INFO - Starting session nattykiya27_20250518_141847 for nattykiya27
+2025-05-18 14:18:49,991 - ERROR - Proxy validation failed: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 407 Proxy Authentication Required')))
+2025-05-18 14:18:50,022 - WARNING - Proxy validation failed, will use direct connection
+2025-05-18 14:19:28,056 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-18 14:20:42,965 - ERROR - Login failed for nattykiya27: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CCFC83+61635]
+	GetHandleVerifier [0x00CCFCC4+61700]
+	(No symbol) [0x00AF05D3]
+	(No symbol) [0x00B3899E]
+	(No symbol) [0x00B38D3B]
+	(No symbol) [0x00B80E12]
+	(No symbol) [0x00B5D2E4]
+	(No symbol) [0x00B7E61B]
+	(No symbol) [0x00B5D096]
+	(No symbol) [0x00B2C840]
+	(No symbol) [0x00B2D6A4]
+	GetHandleVerifier [0x00F545A3+2701795]
+	GetHandleVerifier [0x00F4FD26+2683238]
+	GetHandleVerifier [0x00F6AA6E+2793134]
+	GetHandleVerifier [0x00CE6945+155013]
+	GetHandleVerifier [0x00CED02D+181357]
+	GetHandleVerifier [0x00CD74D8+92440]
+	GetHandleVerifier [0x00CD7680+92864]
+	GetHandleVerifier [0x00CC2070+5296]
+	BaseThreadInitThunk [0x7787FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A482AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A4827E+238]
+
+2025-05-18 14:20:43,899 - INFO - Completed session nattykiya27_20250518_141847

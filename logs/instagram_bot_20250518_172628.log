@@ -1,0 +1,27 @@
+2025-05-18 17:26:28,870 - INFO - Starting session nattykiya27_20250518_172628 for nattykiya27
+2025-05-18 17:26:29,846 - WARNING - Proxy validation failed, will use direct connection
+2025-05-18 17:26:49,492 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-18 17:27:29,566 - INFO - Successfully logged in as nattykiya27
+2025-05-18 17:27:33,516 - INFO - Already following instagram
+2025-05-18 17:27:46,644 - INFO - Not following cristiano
+2025-05-18 17:28:01,198 - INFO - Not following leomessi
+2025-05-18 17:28:11,549 - INFO - Not following therock
+2025-05-18 17:28:22,359 - INFO - Already following kyliejenner
+2025-05-18 17:28:31,271 - INFO - Already following selenagomez
+2025-05-18 17:28:40,936 - INFO - Already following kimkardashian
+2025-05-18 17:28:50,632 - INFO - Not following beyonce
+2025-05-18 17:28:57,265 - INFO - Not following arianagrande
+2025-05-18 17:29:07,523 - INFO - Already following taylorswift
+2025-05-18 17:29:15,376 - INFO - Not following neymarjr
+2025-05-18 17:29:25,948 - INFO - Not following nickiminaj
+2025-05-18 17:29:36,313 - INFO - Already following justinbieber
+2025-05-18 17:29:47,679 - INFO - Already following kendalljenner
+2025-05-18 17:29:54,652 - INFO - Already following natgeo
+2025-05-18 17:30:04,573 - INFO - Already following virat.kohli
+2025-05-18 17:30:15,533 - INFO - Already following zendaya
+2025-05-18 17:30:27,136 - INFO - Not following kevinhart4real
+2025-05-18 17:30:38,543 - INFO - Not following theellenshow
+2025-05-18 17:30:46,574 - INFO - Not following realmadrid
+2025-05-18 17:30:55,546 - INFO - Action limit (20) reached
+2025-05-18 17:30:55,607 - INFO - Saved 20 success logs to logs\success_nattykiya27_20250518_172628_20250518_173055.csv
+2025-05-18 17:30:57,866 - INFO - Completed session nattykiya27_20250518_172628

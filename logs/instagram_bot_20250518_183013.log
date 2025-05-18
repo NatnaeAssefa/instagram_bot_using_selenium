@@ -1,0 +1,132 @@
+2025-05-18 18:30:13,836 - INFO - Starting session natasmeng_20250518_183013 for natasmeng
+2025-05-18 18:30:14,817 - WARNING - Proxy validation failed, will use direct connection
+2025-05-18 18:30:32,251 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-18 18:31:19,276 - INFO - Successfully logged in as natasmeng
+2025-05-18 18:31:24,699 - INFO - Not following instagram
+2025-05-18 18:31:36,301 - INFO - Already following cristiano
+2025-05-18 18:31:49,717 - INFO - Already following leomessi
+2025-05-18 18:32:02,523 - INFO - Followed therock
+2025-05-18 18:32:10,723 - INFO - Not following kyliejenner
+2025-05-18 18:32:20,340 - INFO - Not following selenagomez
+2025-05-18 18:32:38,626 - INFO - Not following kimkardashian
+2025-05-18 18:32:46,190 - INFO - Followed beyonce
+2025-05-18 18:32:56,356 - INFO - Followed arianagrande
+2025-05-18 18:33:08,610 - INFO - Not following taylorswift
+2025-05-18 18:33:26,770 - INFO - Already following neymarjr
+2025-05-18 18:33:47,360 - INFO - Followed nickiminaj
+2025-05-18 18:33:57,656 - INFO - Not following justinbieber
+2025-05-18 18:34:10,037 - INFO - Not following kendalljenner
+2025-05-18 18:35:51,660 - INFO - Not following natgeo
+2025-05-18 18:36:12,281 - INFO - Not following virat.kohli
+2025-05-18 18:36:23,308 - INFO - Not following zendaya
+2025-05-18 18:36:38,259 - INFO - Followed kevinhart4real
+2025-05-18 18:36:51,262 - INFO - Followed theellenshow
+2025-05-18 18:37:29,012 - INFO - Not following realmadrid
+2025-05-18 18:37:45,507 - WARNING - 'Unfollow' not found in modal for fcbarcelona
+2025-05-18 18:38:59,207 - INFO - Followed nasa
+2025-05-18 18:39:17,921 - INFO - Followed champagnepapi
+2025-05-18 18:39:33,402 - INFO - Followed badgalriri
+2025-05-18 18:39:53,108 - INFO - Not following kingjames
+2025-05-18 18:41:06,598 - INFO - Followed billieeilish
+2025-05-18 18:41:20,224 - INFO - Followed chrisbrownofficial
+2025-05-18 18:41:37,715 - INFO - Followed dualipa
+2025-05-18 18:41:56,769 - INFO - Followed nike
+2025-05-18 18:42:09,103 - INFO - Followed adidas
+2025-05-18 18:43:14,774 - INFO - Followed shakira
+2025-05-18 18:43:57,653 - INFO - Followed jlo
+2025-05-18 18:44:08,709 - INFO - Followed emmawatson
+2025-05-18 18:44:18,126 - INFO - Not following priyankachopra
+2025-05-18 18:44:29,974 - INFO - Not following gal_gadot
+2025-05-18 18:44:40,764 - INFO - Not following vindiesel
+2025-05-18 18:44:56,641 - WARNING - Could not find follow button for dwaynejohnson
+2025-05-18 18:45:05,551 - INFO - Not following kourtneykardash
+2025-05-18 18:45:17,659 - INFO - Not following khloekardashian
+2025-05-18 18:45:28,190 - INFO - Followed krisjenner
+2025-05-18 18:45:40,328 - INFO - Followed ddlovato
+2025-05-18 18:46:18,990 - INFO - Followed shawnmendes
+2025-05-18 18:46:27,392 - INFO - Followed camila_cabello
+2025-05-18 18:46:36,741 - INFO - Followed brunomars
+2025-05-18 18:46:44,062 - INFO - Not following jbalvin
+2025-05-18 18:46:55,024 - INFO - Not following maluma
+2025-05-18 18:47:08,679 - INFO - Not following karimbenzema
+2025-05-18 18:47:27,180 - INFO - Followed lewishamilton
+2025-05-18 18:47:52,954 - ERROR - Attempt 1 failed for unfollowing neymar: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DFC83+61635]
+	GetHandleVerifier [0x007DFCC4+61700]
+	(No symbol) [0x006005D3]
+	(No symbol) [0x0064899E]
+	(No symbol) [0x00648D3B]
+	(No symbol) [0x00690E12]
+	(No symbol) [0x0066D2E4]
+	(No symbol) [0x0068E61B]
+	(No symbol) [0x0066D096]
+	(No symbol) [0x0063C840]
+	(No symbol) [0x0063D6A4]
+	GetHandleVerifier [0x00A645A3+2701795]
+	GetHandleVerifier [0x00A5FD26+2683238]
+	GetHandleVerifier [0x00A7AA6E+2793134]
+	GetHandleVerifier [0x007F6945+155013]
+	GetHandleVerifier [0x007FD02D+181357]
+	GetHandleVerifier [0x007E74D8+92440]
+	GetHandleVerifier [0x007E7680+92864]
+	GetHandleVerifier [0x007D2070+5296]
+	BaseThreadInitThunk [0x7787FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A482AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A4827E+238]
+
+2025-05-18 18:48:17,980 - ERROR - Attempt 2 failed for unfollowing neymar: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DFC83+61635]
+	GetHandleVerifier [0x007DFCC4+61700]
+	(No symbol) [0x006005D3]
+	(No symbol) [0x0064899E]
+	(No symbol) [0x00648D3B]
+	(No symbol) [0x00690E12]
+	(No symbol) [0x0066D2E4]
+	(No symbol) [0x0068E61B]
+	(No symbol) [0x0066D096]
+	(No symbol) [0x0063C840]
+	(No symbol) [0x0063D6A4]
+	GetHandleVerifier [0x00A645A3+2701795]
+	GetHandleVerifier [0x00A5FD26+2683238]
+	GetHandleVerifier [0x00A7AA6E+2793134]
+	GetHandleVerifier [0x007F6945+155013]
+	GetHandleVerifier [0x007FD02D+181357]
+	GetHandleVerifier [0x007E74D8+92440]
+	GetHandleVerifier [0x007E7680+92864]
+	GetHandleVerifier [0x007D2070+5296]
+	BaseThreadInitThunk [0x7787FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A482AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A4827E+238]
+
+2025-05-18 18:48:42,509 - ERROR - Attempt 3 failed for unfollowing neymar: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DFC83+61635]
+	GetHandleVerifier [0x007DFCC4+61700]
+	(No symbol) [0x006005D3]
+	(No symbol) [0x0064899E]
+	(No symbol) [0x00648D3B]
+	(No symbol) [0x00690E12]
+	(No symbol) [0x0066D2E4]
+	(No symbol) [0x0068E61B]
+	(No symbol) [0x0066D096]
+	(No symbol) [0x0063C840]
+	(No symbol) [0x0063D6A4]
+	GetHandleVerifier [0x00A645A3+2701795]
+	GetHandleVerifier [0x00A5FD26+2683238]
+	GetHandleVerifier [0x00A7AA6E+2793134]
+	GetHandleVerifier [0x007F6945+155013]
+	GetHandleVerifier [0x007FD02D+181357]
+	GetHandleVerifier [0x007E74D8+92440]
+	GetHandleVerifier [0x007E7680+92864]
+	GetHandleVerifier [0x007D2070+5296]
+	BaseThreadInitThunk [0x7787FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A482AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A4827E+238]
+
+2025-05-18 18:48:50,760 - INFO - Already following declanrice
+2025-05-18 18:48:58,027 - INFO - Action limit (50) reached
+2025-05-18 18:48:58,126 - INFO - Saved 47 success logs to logs\success_natasmeng_20250518_183013_20250518_184858.csv
+2025-05-18 18:48:58,133 - INFO - Saved 3 failure logs to logs\failure_natasmeng_20250518_183013_20250518_184858.csv
+2025-05-18 18:49:00,571 - INFO - Completed session natasmeng_20250518_183013

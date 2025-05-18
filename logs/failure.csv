@@ -1,0 +1,8 @@
+timestamp,username,action,result,status
+2025-05-17 21:11:36,user1,unfollow,Not following,fail
+2025-05-17 21:12:15,user2,follow,Already following or error,fail
+2025-05-17 21:13:09,user3,unfollow,Not following,fail
+2025-05-17 21:15:17,kyliejenner,unfollow,Not following,fail
+2025-05-17 21:15:51,kevinhart4real,follow,Already following or error,fail
+2025-05-17 21:16:23,lewishamilton,unfollow,Not following,fail
+2025-05-18 10:12:58,kyliejenner,unfollow,Not following,fail

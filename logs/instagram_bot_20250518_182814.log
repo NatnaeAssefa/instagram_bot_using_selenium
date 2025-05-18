@@ -1,0 +1,30 @@
+2025-05-18 18:28:14,809 - INFO - Starting session natasmeng_20250518_182814 for natasmeng
+2025-05-18 18:28:15,835 - WARNING - Proxy validation failed, will use direct connection
+2025-05-18 18:28:22,765 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-18 18:28:55,478 - ERROR - Login failed for natasmeng: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0030FC83+61635]
+	GetHandleVerifier [0x0030FCC4+61700]
+	(No symbol) [0x001305D3]
+	(No symbol) [0x0017899E]
+	(No symbol) [0x00178D3B]
+	(No symbol) [0x001C0E12]
+	(No symbol) [0x0019D2E4]
+	(No symbol) [0x001BE61B]
+	(No symbol) [0x0019D096]
+	(No symbol) [0x0016C840]
+	(No symbol) [0x0016D6A4]
+	GetHandleVerifier [0x005945A3+2701795]
+	GetHandleVerifier [0x0058FD26+2683238]
+	GetHandleVerifier [0x005AAA6E+2793134]
+	GetHandleVerifier [0x00326945+155013]
+	GetHandleVerifier [0x0032D02D+181357]
+	GetHandleVerifier [0x003174D8+92440]
+	GetHandleVerifier [0x00317680+92864]
+	GetHandleVerifier [0x00302070+5296]
+	BaseThreadInitThunk [0x7787FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A482AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A4827E+238]
+	(No symbol) [0x00000000]
+
+2025-05-18 18:28:56,187 - INFO - Completed session natasmeng_20250518_182814

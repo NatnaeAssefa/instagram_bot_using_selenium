@@ -1,0 +1,5 @@
+2025-05-18 14:36:57,311 - INFO - Starting session nattykiya27_20250518_143657 for nattykiya27
+2025-05-18 14:36:58,464 - WARNING - Proxy validation failed, will use direct connection
+2025-05-18 14:37:18,754 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-18 14:39:58,735 - ERROR - Login failed for nattykiya27: HTTPConnectionPool(host='localhost', port=8306): Read timed out. (read timeout=120)
+2025-05-18 14:39:59,487 - INFO - Completed session nattykiya27_20250518_143657

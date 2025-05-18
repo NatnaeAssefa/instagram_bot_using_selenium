@@ -1,0 +1,33 @@
+2025-05-18 16:13:10,030 - INFO - Starting session nattykiya27_20250518_161310 for nattykiya27
+2025-05-18 16:13:11,181 - WARNING - Proxy validation failed, will use direct connection
+2025-05-18 16:13:34,607 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-18 16:14:42,600 - INFO - Successfully logged in as nattykiya27
+2025-05-18 16:15:01,638 - INFO - Already following therock
+2025-05-18 16:15:11,315 - INFO - Not following olliewatkins
+2025-05-18 16:15:21,141 - INFO - Followed instagram
+2025-05-18 16:15:48,417 - ERROR - Attempt 1 failed for unfollowing   "cristiano": Message: 
+Stacktrace:
+	GetHandleVerifier [0x007BFC83+61635]
+	GetHandleVerifier [0x007BFCC4+61700]
+	(No symbol) [0x005E05D3]
+	(No symbol) [0x0062899E]
+	(No symbol) [0x00628D3B]
+	(No symbol) [0x00670E12]
+	(No symbol) [0x0064D2E4]
+	(No symbol) [0x0066E61B]
+	(No symbol) [0x0064D096]
+	(No symbol) [0x0061C840]
+	(No symbol) [0x0061D6A4]
+	GetHandleVerifier [0x00A445A3+2701795]
+	GetHandleVerifier [0x00A3FD26+2683238]
+	GetHandleVerifier [0x00A5AA6E+2793134]
+	GetHandleVerifier [0x007D6945+155013]
+	GetHandleVerifier [0x007DD02D+181357]
+	GetHandleVerifier [0x007C74D8+92440]
+	GetHandleVerifier [0x007C7680+92864]
+	GetHandleVerifier [0x007B2070+5296]
+	BaseThreadInitThunk [0x7787FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A482AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A4827E+238]
+
+2025-05-18 16:16:04,899 - INFO - Received termination signal. Cleaning up...

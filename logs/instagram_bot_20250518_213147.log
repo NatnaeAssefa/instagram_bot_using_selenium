@@ -1,0 +1,182 @@
+2025-05-18 21:31:47,480 - INFO - Starting session natasmeng_20250518_213147 for natasmeng
+2025-05-18 21:31:49,042 - WARNING - Proxy validation failed, will use direct connection
+2025-05-18 21:32:04,588 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-18 21:33:12,922 - INFO - Successfully logged in as natasmeng
+2025-05-18 21:33:34,443 - INFO - Followed adele
+2025-05-18 21:33:44,257 - INFO - Followed aliciakeys
+2025-05-18 21:33:53,529 - INFO - Not following amandacerny
+2025-05-18 21:34:01,775 - INFO - Followed anitta
+2025-05-18 21:34:22,610 - INFO - Followed annehathaway
+2025-05-18 21:34:32,374 - INFO - Followed ashleygraham
+2025-05-18 21:34:44,419 - INFO - Followed barackobama
+2025-05-18 21:34:55,737 - INFO - Not following bellahadid
+2025-05-18 21:35:04,823 - WARNING - Could not find follow button for benaffleck
+2025-05-18 21:35:13,221 - INFO - Followed blakelively
+2025-05-18 21:35:24,728 - INFO - Not following britneyspears
+2025-05-18 21:35:39,346 - INFO - Followed cardib
+2025-05-18 21:35:47,255 - INFO - Followed charlieputh
+2025-05-18 21:35:58,619 - INFO - Followed chrissyteigen
+2025-05-18 21:36:08,038 - INFO - Followed ciara
+2025-05-18 21:36:18,829 - INFO - Followed cole_sprouse
+2025-05-18 21:36:28,154 - INFO - Followed connor_mcdavid
+2025-05-18 21:36:46,964 - INFO - Followed davidbeckham
+2025-05-18 21:36:57,697 - WARNING - Could not find follow button for demilovato
+2025-05-18 21:37:06,872 - INFO - Followed djkhaled
+2025-05-18 21:37:20,360 - INFO - Followed dojacat
+2025-05-18 21:37:40,437 - INFO - Followed drake
+2025-05-18 21:37:50,513 - WARNING - Could not find follow button for ed sheeran
+2025-05-18 21:38:02,799 - INFO - Followed ellenpompeo
+2025-05-18 21:38:14,566 - INFO - Followed elonmusk
+2025-05-18 21:38:26,249 - INFO - Followed emilia_clarke
+2025-05-18 21:38:51,719 - ERROR - Attempt 1 failed for unfollowing emilyratajkowski: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CBFC83+61635]
+	GetHandleVerifier [0x00CBFCC4+61700]
+	(No symbol) [0x00AE05D3]
+	(No symbol) [0x00B2899E]
+	(No symbol) [0x00B28D3B]
+	(No symbol) [0x00B70E12]
+	(No symbol) [0x00B4D2E4]
+	(No symbol) [0x00B6E61B]
+	(No symbol) [0x00B4D096]
+	(No symbol) [0x00B1C840]
+	(No symbol) [0x00B1D6A4]
+	GetHandleVerifier [0x00F445A3+2701795]
+	GetHandleVerifier [0x00F3FD26+2683238]
+	GetHandleVerifier [0x00F5AA6E+2793134]
+	GetHandleVerifier [0x00CD6945+155013]
+	GetHandleVerifier [0x00CDD02D+181357]
+	GetHandleVerifier [0x00CC74D8+92440]
+	GetHandleVerifier [0x00CC7680+92864]
+	GetHandleVerifier [0x00CB2070+5296]
+	BaseThreadInitThunk [0x7787FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A482AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A4827E+238]
+
+2025-05-18 21:39:16,628 - ERROR - Attempt 2 failed for unfollowing emilyratajkowski: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CBFC83+61635]
+	GetHandleVerifier [0x00CBFCC4+61700]
+	(No symbol) [0x00AE05D3]
+	(No symbol) [0x00B2899E]
+	(No symbol) [0x00B28D3B]
+	(No symbol) [0x00B70E12]
+	(No symbol) [0x00B4D2E4]
+	(No symbol) [0x00B6E61B]
+	(No symbol) [0x00B4D096]
+	(No symbol) [0x00B1C840]
+	(No symbol) [0x00B1D6A4]
+	GetHandleVerifier [0x00F445A3+2701795]
+	GetHandleVerifier [0x00F3FD26+2683238]
+	GetHandleVerifier [0x00F5AA6E+2793134]
+	GetHandleVerifier [0x00CD6945+155013]
+	GetHandleVerifier [0x00CDD02D+181357]
+	GetHandleVerifier [0x00CC74D8+92440]
+	GetHandleVerifier [0x00CC7680+92864]
+	GetHandleVerifier [0x00CB2070+5296]
+	BaseThreadInitThunk [0x7787FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A482AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A4827E+238]
+
+2025-05-18 21:39:40,615 - ERROR - Attempt 3 failed for unfollowing emilyratajkowski: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00CBFC83+61635]
+	GetHandleVerifier [0x00CBFCC4+61700]
+	(No symbol) [0x00AE05D3]
+	(No symbol) [0x00B2899E]
+	(No symbol) [0x00B28D3B]
+	(No symbol) [0x00B70E12]
+	(No symbol) [0x00B4D2E4]
+	(No symbol) [0x00B6E61B]
+	(No symbol) [0x00B4D096]
+	(No symbol) [0x00B1C840]
+	(No symbol) [0x00B1D6A4]
+	GetHandleVerifier [0x00F445A3+2701795]
+	GetHandleVerifier [0x00F3FD26+2683238]
+	GetHandleVerifier [0x00F5AA6E+2793134]
+	GetHandleVerifier [0x00CD6945+155013]
+	GetHandleVerifier [0x00CDD02D+181357]
+	GetHandleVerifier [0x00CC74D8+92440]
+	GetHandleVerifier [0x00CC7680+92864]
+	GetHandleVerifier [0x00CB2070+5296]
+	BaseThreadInitThunk [0x7787FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A482AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77A4827E+238]
+
+2025-05-18 21:39:46,902 - WARNING - Could not find follow button for evanpeters
+2025-05-18 21:39:58,831 - INFO - Followed floydmayweather
+2025-05-18 21:40:11,224 - INFO - Not following gigihadid
+2025-05-18 21:40:21,455 - INFO - Followed haileybieber
+2025-05-18 21:40:30,109 - WARNING - Could not find follow button for harry_styles
+2025-05-18 21:40:40,825 - INFO - Followed heidi_klum
+2025-05-18 21:40:48,977 - WARNING - Could not find follow button for hughjackman
+2025-05-18 21:40:58,036 - INFO - Followed iamcardib
+2025-05-18 21:41:08,897 - INFO - Followed idriselba
+2025-05-18 21:41:16,518 - INFO - Followed j_cole
+2025-05-18 21:41:24,156 - INFO - Followed jadapinkettsmith
+2025-05-18 21:41:32,794 - INFO - Followed jakegyllenhaal
+2025-05-18 21:41:41,077 - INFO - Not following jamescharles
+2025-05-18 21:41:50,453 - INFO - Followed jasonstatham
+2025-05-18 21:42:01,101 - INFO - Followed jenniferaniston
+2025-05-18 21:42:10,991 - INFO - Followed jessicaalba
+2025-05-18 21:42:26,301 - INFO - Followed jimmyfallon
+2025-05-18 21:42:37,936 - INFO - Followed johnlegend
+2025-05-18 21:42:48,106 - INFO - Followed johnnydepp
+2025-05-18 21:42:58,203 - INFO - Followed jordynwoods
+2025-05-18 21:43:23,516 - INFO - Already following justintimberlake
+2025-05-18 21:43:31,765 - INFO - Followed kanyewest
+2025-05-18 21:43:42,704 - INFO - Followed katemiddleton
+2025-05-18 21:44:09,629 - INFO - Followed katypurry
+2025-05-18 21:44:22,227 - INFO - Followed kellyclarkson
+2025-05-18 21:44:34,302 - INFO - Followed kerrywashington
+2025-05-18 21:44:44,907 - INFO - Followed kevinjonas
+2025-05-18 21:44:55,635 - INFO - Followed khaby.lame
+2025-05-18 21:45:07,977 - INFO - Followed kimberlyloaiza
+2025-05-18 21:45:15,393 - INFO - Followed ladygaga
+2025-05-18 21:45:36,179 - INFO - Followed lalisa
+2025-05-18 21:45:43,556 - INFO - Followed laurenconrad
+2025-05-18 21:45:58,174 - INFO - Followed lilnasx
+2025-05-18 21:46:09,118 - WARNING - Could not find follow button for lilycollins
+2025-05-18 21:46:20,473 - INFO - Followed lizzo
+2025-05-18 21:46:30,564 - INFO - Followed loganpaul
+2025-05-18 21:46:46,559 - INFO - Followed lucyhale
+2025-05-18 21:46:57,162 - INFO - Followed madonna
+2025-05-18 21:47:06,812 - INFO - Followed maiminh
+2025-05-18 21:47:18,198 - WARNING - Could not find follow button for margotrobbie
+2025-05-18 21:47:29,689 - INFO - Followed markwahlberg
+2025-05-18 21:47:39,012 - INFO - Followed meganfox
+2025-05-18 21:48:14,450 - INFO - Followed michaelbjordan
+2025-05-18 21:48:26,256 - INFO - Followed mileycyrus
+2025-05-18 21:48:39,585 - INFO - Followed milliebobbybrown
+2025-05-18 21:48:50,007 - INFO - Followed mindykaling
+2025-05-18 21:49:02,796 - WARNING - Could not find follow button for monicabellucci
+2025-05-18 21:49:10,331 - INFO - Followed naomscott
+2025-05-18 21:49:18,960 - INFO - Followed nickjonas
+2025-05-18 21:49:28,559 - WARNING - Could not find follow button for ninadobrev
+2025-05-18 21:49:39,150 - INFO - Followed noahcentineo
+2025-05-18 21:49:50,519 - INFO - Followed oliviaculpo
+2025-05-18 21:50:00,882 - INFO - Followed oprah
+2025-05-18 21:50:10,182 - INFO - Followed parishilton
+2025-05-18 21:50:27,327 - INFO - Followed paulwalker
+2025-05-18 21:50:37,659 - WARNING - Could not find follow button for petedavidson
+2025-05-18 21:50:51,816 - INFO - Followed phoebe_tonkin
+2025-05-18 21:51:02,246 - INFO - Followed postmalone
+2025-05-18 21:51:11,010 - INFO - Followed reesewitherspoon
+2025-05-18 21:51:35,393 - INFO - Followed robertdowneyjr
+2025-05-18 21:51:42,972 - INFO - Followed rosiehw
+2025-05-18 21:52:03,163 - INFO - Followed ryanreynolds
+2025-05-18 21:52:12,854 - INFO - Followed sabrinacarpenter
+2025-05-18 21:52:23,607 - INFO - Followed sarahhyland
+2025-05-18 21:52:30,434 - WARNING - Could not find follow button for scarlettjohansson
+2025-05-18 21:52:38,386 - INFO - Followed selena
+2025-05-18 21:52:48,351 - INFO - Followed shaymitchell
+2025-05-18 21:52:57,329 - INFO - Followed snoopdogg
+2025-05-18 21:53:08,623 - INFO - Followed sofiarichie
+2025-05-18 21:53:17,794 - INFO - Followed sofia_vergara
+2025-05-18 21:53:27,597 - INFO - Followed tchalamet
+2025-05-18 21:53:47,977 - INFO - Followed tomholland2013
+2025-05-18 21:54:12,000 - INFO - Followed victoriabeckham
+2025-05-18 21:54:16,466 - INFO - Action limit (100) reached
+2025-05-18 21:54:16,844 - INFO - Saved 87 success logs to logs\success_natasmeng_20250518_213147_20250518_215416.csv
+2025-05-18 21:54:16,948 - INFO - Saved 13 failure logs to logs\failure_natasmeng_20250518_213147_20250518_215416.csv
+2025-05-18 21:54:18,770 - INFO - Completed session natasmeng_20250518_213147
